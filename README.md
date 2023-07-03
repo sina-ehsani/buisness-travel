@@ -1,2 +1,3 @@
-# buisness-travel
-Blog posts about different airlines business travel experience.
+# B-Travels
+
+A guide for Business Class Travelers!
