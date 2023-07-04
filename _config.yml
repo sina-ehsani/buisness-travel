@@ -2,8 +2,8 @@
 name: "business-travel"
 title: "Business Traveler"
 description: "I will take you on the fabulous world of exploration with Business traveling guide!"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo3.png'
+favicon: 'assets/images/logo3.png'
 baseurl: /business-travel
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
