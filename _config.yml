@@ -17,14 +17,14 @@ authors:
   sal:
     name: Sina
     display_name: Sina
-    avatar: 'assets/images/sina.JPG'
+    avatar: 'assets/images/sina.png'
     email:  sina.scoth@gmail.com
     web: https://sina-ehsani.github.io
     description: "Main author of this weblog, whooohooo"
   ChatGPT:
     name: ChatGPT
     display_name: ChatGPT    
-    avatar: 'assets/images/ChatGPT'
+    avatar: 'assets/images/ChatGPTopen.png'
     web: https://chat.openai.com/
     description: "ChatGPT helps me to write in a more coherent way."
 
