@@ -27,5 +27,8 @@ We arrived on schedule at City B airport. The deplaning process was smooth and e
 ### Conclusion
 Overall, I had a positive experience with Airline X...
 
-![A photo from the flight](/assets/images/qatardish1.png)
-![A photo from the flight](/assets/images/Qatar.jpeg)
+---
+image: /assets/images/qatardish1.png
+---
+
+<!-- ![A photo from the flight](/assets/images/qatardish1.png) -->
