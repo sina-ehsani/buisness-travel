@@ -5,9 +5,9 @@ description: "I will take you on the fabulous world of exploration with Business
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /jekyll-theme-memoirs
-# google_analytics: 'UA-xxxxxxxx-1'
+google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
-# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 email: sina.scoth@gmail.com
@@ -20,15 +20,12 @@ authors:
     avatar: 'assets/images/sina.JPG'
     email:  sina.scoth@gmail.com
     web: https://sina-ehsani.github.io
-    # twitter: https://twitter.com/wowthemesnet
     description: "Main author of this weblog, whooohooo"
   ChatGPT:
     name: ChatGPT
     display_name: ChatGPT    
     avatar: 'assets/images/ChatGPT'
-    # email: wowthemesnet@gmail.com
     web: https://chat.openai.com/
-    # twitter: https://twitter.com/wowthemesnet
     description: "ChatGPT helps me to write in a more coherent way."
 
 # Plugins
